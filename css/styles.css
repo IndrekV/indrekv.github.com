@@ -1,0 +1,42 @@
+aside {
+	width: 100px;
+	-webkit-box-shadow: 8px 0px 10px -6px #848484;
+	   -moz-box-shadow: 8px 0px 10px -6px #848484;
+	        box-shadow: 8px 0px 10px -6px #848484;
+    min-height: 300px;
+    padding: 20px;
+}
+.avatar {
+	-moz-box-shadow:    inset 0 0 10px 5px #000000;
+   	-webkit-box-shadow: inset 0 0 10px #000000;
+   	box-shadow:         inset 0 0 10px 5px #000000;
+   	-webkit-border-radius: 11px;
+    -moz-border-radius: 11px;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.name {
+	font: 400 20px/1.6 'Pacifico', Georgia, serif;	
+}
+
+#menu {
+	list-style: none;
+	padding: 0;
+	margin: =;
+}
+
+.link {
+	 font: 400 16px/1.6 'Arimo', Verdana, Helvetica, sans-serif;
+	 font-weight: bold;
+	 text-decoration: none;
+	 color: black;
+}
+
+h1 {
+  font: 400 95px/1.6 'Pacifico', Georgia, serif;
+}
+ 
+p {
+  font: 400 16px/1.6 'Arimo', Verdana, Helvetica, sans-serif;
+}
