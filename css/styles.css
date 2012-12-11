@@ -20,18 +20,6 @@ aside {
 	font: 400 20px/1.6 'Pacifico', Georgia, serif;	
 }
 
-#menu {
-	list-style: none;
-	padding: 0;
-	margin: =;
-}
-
-.link {
-	 font: 400 16px/1.6 'Arimo', Verdana, Helvetica, sans-serif;
-	 font-weight: bold;
-	 text-decoration: none;
-	 color: black;
-}
 
 h1 {
   font: 400 95px/1.6 'Pacifico', Georgia, serif;
@@ -40,3 +28,4 @@ h1 {
 p {
   font: 400 16px/1.6 'Arimo', Verdana, Helvetica, sans-serif;
 }
+
