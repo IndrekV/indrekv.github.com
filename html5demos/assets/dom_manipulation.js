@@ -53,6 +53,12 @@ function profileLoops(){
 	forLoopFour();
 	console.profileEnd("fourth");
 }
-profileLoops();
+
+$().ready(function(){
+	$('#start').click(function(){
+		profileLoops();		
+		return false;
+	});
+});
 
 
