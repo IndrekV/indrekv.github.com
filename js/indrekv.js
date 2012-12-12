@@ -3,11 +3,6 @@ $().ready(function(){
 		$(this).parent().find('ul').toggleClass('visible');
 		return false;
 	});
-	$('.demo-link').click(function(e){
-		e.stopPropagation();
-		$('#content').load('html5demos/' + $(this).attr('href').replace('#', '') + '.html');
-		return false;
-	});
 })
 
 var _gaq = _gaq || [];
