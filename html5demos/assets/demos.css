@@ -14,4 +14,8 @@
 
 .visibility {
 	visibility: hidden;
+	height: 0;
+	width: 0;
+	border: 0;
+	padding: 0;
 }
