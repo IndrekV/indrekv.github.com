@@ -1,0 +1,17 @@
+.elem{
+	float:left;
+	border: 1px solid grey;
+	border-radius: 2px;
+	list-style: none;
+	width: 20px;
+	height: 20px;
+	padding: 2px;
+}
+
+.display {
+	display: none;
+}
+
+.visibility {
+	visibility: hidden;
+}
