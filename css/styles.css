@@ -1,5 +1,5 @@
 aside {
-	width: 100px;
+	width: 200px;
 	-webkit-box-shadow: 8px 0px 10px -6px #848484;
 	   -moz-box-shadow: 8px 0px 10px -6px #848484;
 	        box-shadow: 8px 0px 10px -6px #848484;
@@ -38,15 +38,23 @@ aside {
 	 font-weight: bold;
 	 text-decoration: none;
 	 color: black;
+	 margin-left: 10px;
 }
 
 .demo-link {
-	font-size: 14px;
+	font-size: 13px;
 	font-style: italic;
 }
 
 h1 {
   font: 400 95px/1.6 'Pacifico', Georgia, serif;
+}
+
+h2 {
+	font: 400 16px/1.6 'Arimo', Verdana, Helvetica, sans-serif;
+	font-weight: bold;
+	text-decoration: none;
+	color: black;
 }
  
 p {
