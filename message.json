@@ -2,7 +2,7 @@
 	"id":1,
 	"datetime": 1575372313453,
 	"appversion":"7.4.1022",
-	"type": "same",
+	"type": "0",
 	"days": "0",
 	"title": "title text here",
 	"text": "New version of Desktop available",
