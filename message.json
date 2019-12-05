@@ -1,9 +1,9 @@
 {
 	"id": 2,
-	"datetime": 1575372313453,
+	"from": 1575331200,
+	"to": 1575936000,
 	"appversion": "7.4.1022",
-	"type": "0",
-	"days": "0",
+	"type": 1,
 	"title": "long title here to test how it looks sdf sasd fsad",
 	"text": "Check this out this is longfsdaf sadfsf asdf sda kfsdak sdakf jsdakjfdskaj ksadkfsd ksda kdsaj fkdsjfds jksdajf ksdajkdsafj kdsajkfsa dkj ",
 	"button": "Get it now!",
