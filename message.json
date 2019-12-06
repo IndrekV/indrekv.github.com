@@ -7,5 +7,7 @@
 	"title": "long title here to test how it looks sdf sasd fsad",
 	"text": "Check this out this is longfsdaf sadfsf asdf sda kfsdak sdakf jsdakjfdskaj ksadkfsd ksda kdsaj fkdsjfds jksdajf ksdajkdsafj kdsajkfsa dkj ",
 	"button": "Get it now!",
-	"url": "https://toggl.com"
+	"url-mac": "https://toggl.com?mac",
+	"url-win": "https://toggl.com?win",
+	"url-linux": "https://toggl.com?linux"
 }
